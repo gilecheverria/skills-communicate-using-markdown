@@ -25,10 +25,9 @@ f => a => b => (a + b) / 2
 fn a, b -> (a + b) / 2 end
 ```
 
-### An h3 title
+## Lists
 
-blah blah
-
-## Anoder h2
-
-Yeah
+- [x] Images
+- [x] Code blocks
+- [x] Lists
+- [ ] Emojis
